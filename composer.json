@@ -1,0 +1,13 @@
+{
+    "name": "aiden/discount-esp-influencer-referral-program-signup-form",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "Aiden Merrill",
+            "email": "aidenmerrill@outlook.com"
+        }
+    ]
+}
